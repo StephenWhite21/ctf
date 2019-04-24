@@ -1,0 +1,7 @@
+Welcome to the Alternate Data Stream Challenge!
+
+Can you find the prize?
+
+Hint1: hint.txt
+
+@author Stephen White
